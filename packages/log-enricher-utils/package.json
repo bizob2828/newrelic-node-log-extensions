@@ -1,0 +1,11 @@
+{
+  "name": "@newrelic/log-enricher-utils",
+  "version": "0.0.1",
+  "description": "Common code between all log enrichers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "Apache-2.0"
+}
